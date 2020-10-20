@@ -1,0 +1,21 @@
+FEEDBACK
+===========
+Q3: There is a bug in simulate_laser_scan_for_particle where you are not setting max range when the checked location goes outside the workspace bounds.
+
+GRADES
+===========
+Q1_Coordinate_Transforms                 2.00/2.00
+Q1_Range_Angle_Calculations_To_Cells     2.50/2.50
+Q1_Images                                0.25/0.25
+Q1_Video                                 0.25/0.25
+Q2_Dynamics_Model                        0.75/0.75
+Q2_Measurement_Model                     0.75/0.75
+Q2_Dynamics_Cost                         0.75/0.75
+Q2_Measurement_Cost                      0.75/0.75
+Q2_Cost_Function                         2.00/2.00
+Q3_Resampling                            2.00/2.00
+Q3_Scan_Simulation                       1.00/2.00
+Q3_Prediction_Error_and_Weights          2.00/2.00
+Q3_Video                                 0.25/0.25
+===========
+TOTAL                                    15.25/16.25 (93.85%)

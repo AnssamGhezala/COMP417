@@ -1,0 +1,17 @@
+FEEDBACK
+===========
+Q2: A and B matrices have some incorrect term. The incorrect goal position is used for u calculation (should be positioned at x = 0)
+
+GRADES
+===========
+Q1_ErrorCalculations                     2.25/2.25
+Q1_Gains                                 2.25/2.25
+Q1_Image                                 0.25/0.25
+Q1_Video                                 0.25/0.25
+Q2_A_Matrix                              0.62/1.25
+Q2_B_Matrix                              0.62/1.25
+Q2_QR_Matrices                           1.25/1.25
+Q2_u_calculation                         0.50/1.00
+Q2_Video                                 0.25/0.25
+===========
+TOTAL                                    8.25/10.00 (82.50%)
